@@ -1,0 +1,80 @@
+/* Mobile && TABlet */
+@media(max-width: 1023px){
+/* tour */
+.card-btn{
+    padding: 15px 16px !important;
+}
+}
+
+/* contract */
+.inp-name-email{
+    padding: 16px !important;
+}
+
+.contact-Address{
+    line-height: 1.9;
+}
+
+/* footer */
+.icon-link{
+    font-size: 30px;
+    margin: 0px 8px;
+}
+
+.footer-text-link{
+    padding: 8px 0;
+
+}
+
+
+/* .MOBILE */
+
+@media (max-width:739px){ 
+    .s-col-full{
+        margin-bottom: 16px !important;
+        width: 100%;
+    }
+    .s-full-width{
+        width: 100% !important;
+    }
+
+    #header{
+        overflow: hidden;
+    }
+
+    #navigation,
+    #navigation >li{
+        display: block;
+        
+    }
+
+    #navigation >li:first-child{
+       display: inline-block;
+    }
+
+    #navigation .subnav{
+          position: inherit;      
+          /* giá trị mặc định */
+          background-color: black;
+          
+    }
+
+    #navigation .subnav a{
+        color: #fff;
+        padding: 3px 40px;
+    }    
+
+    #header .menu-for-mb{
+        display: block;
+        position:absolute;
+        top:0;
+        right: 0;
+        padding: 0 20px;
+        cursor: pointer;
+    }
+
+    #header .search_btn{
+        display: none;
+    }
+
+}

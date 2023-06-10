@@ -1,0 +1,38 @@
+Những thành phần thường gặp trên giao diện web;
+1. Header (đầu trang)
+2. Navigation (Điều hướng gắn link)
+2.2.Banner (hình ảnh quảng cáo)
+3. Breadcrumb (gắn cờ biểu thị đang ở đâu)
+4. Sidebar (1 thanh đặt ở 1 phía màn hình, có thể là bất cứ thứ gì)
+5. Slider (trình diễn nội dung qua hình ảnh hoặc video "trượt trượt")
+6. contemt(nội dụng biểu thị)
+7. Footer(chân trang để lại thông tin liên hệ)
+
+
+
+
+cách bước làm WEB{
+    1.phân thích --> 0k
+        1.1.Header
+        1.2.Slider
+        1.3.content
+            3.1.about (giới thiệu)
+            3.2. Tour
+            3.3. contact
+            3.4. Image
+          
+        1.4.Footer
+    2.xây móng (base)
+}
+cách làm:
+/*
+1.ngoài vào trong
+2. Từ trên xuống dưới
+3. Tổng quan tới chi tiết
+*/
+/* 
+1. vị trí
+2. kích thước (chiều x,y)
+3.Màu sắc
+3.kiểu dáng (vuông tròn méo)
+*/
