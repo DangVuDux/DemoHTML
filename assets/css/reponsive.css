@@ -1,5 +1,5 @@
 /* Mobile && TABlet */
-@media(max-width: 1023px){
+@media(max-width: 63.9375em){
 /* tour */
 .card-btn{
     padding: 15px 16px !important;
@@ -29,7 +29,7 @@
 
 /* .MOBILE */
 
-@media (max-width:739px){ 
+@media (max-width:46.1875em){ 
     .s-col-full{
         margin-bottom: 16px !important;
         width: 100%;
